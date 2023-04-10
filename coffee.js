@@ -39,6 +39,7 @@ function getCupPrice(cupSize){
     return price *= 1.5;
   }
 }
+   
 
 //////////////////////////////////////////////////CoffeeType
 
