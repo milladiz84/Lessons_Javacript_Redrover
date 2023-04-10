@@ -37,6 +37,7 @@ function getCupPrice(cupSize){
   }
   else if(cupSize == "large"){
     return price *= 1.5;
+    
   }
 }
    
